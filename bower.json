@@ -1,0 +1,6 @@
+{
+  "name": "background-color",
+  "dependencies": {
+    "ember": "components/ember#canary"
+  }
+}
